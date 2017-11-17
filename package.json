@@ -1,6 +1,6 @@
 {
   "name": "@riim/camelize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Riim/camelize#readme",
   "devDependencies": {
-    "typescript": "^2.5.2"
+    "typescript": "^2.6.1"
   }
 }
