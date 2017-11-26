@@ -1,1 +1,1 @@
-export declare function camelize(str: string, useCache?: boolean): string;
+export declare function camelize(str: any, useCache?: boolean): string;
